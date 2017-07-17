@@ -15,8 +15,8 @@
   },
   "author": "",
   "license": "ISC",
-  "respository": {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/dsemel/npmTutorial/blob/master/README.md"
+    "url": "https://github.com/dsemel/npmTutorial"
   }
 }
