@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "respository": {
-    "url": "https://ide.c9.io/dsemel/npm#openfile-README.md"
+    "type": "git",
+    "url": "https://github.com/dsemel/npmTutorial/blob/master/README.md"
   }
 }
